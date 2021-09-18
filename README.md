@@ -1,1 +1,2 @@
 # LGMVIP-WebDevelopment
+This is my submission for the Lets Grow More Community Tasks for the Virtual Internship Program(VIP), for the month of September 2021. I would like to thank Mr. Aman Kesarwani and Lets Grow More Community for such an amazing project. In this One Month long internship, the intern were assigned 3 tasks and as such completing atleast 2 tasks was mandatory for the interns. I had completed tasks 1 and 2 from the assigned tasks. Please review my submission and let me know how i can improve.
